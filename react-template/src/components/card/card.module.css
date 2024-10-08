@@ -1,0 +1,11 @@
+.card
+{
+    border-radius: 8px;
+    height: 500px;
+    width: 307px;
+}
+
+.card_1
+{
+    background-color: red;
+}
