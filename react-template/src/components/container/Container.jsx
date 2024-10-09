@@ -1,7 +1,5 @@
 import Card from "../card/Card";
 import styles from '../container/container.module.css';
-import styles from '../card/card.modules.css';
-
 
 const Container = () =>
 {
@@ -10,7 +8,7 @@ const Container = () =>
         title = 'SEDANS'
         text = 'Choose a sedan for its affordability and excellent fuel economy. Ideal for cruising in the city or on your next road trip.'
         button_text = 'Learn More'
-        className = {styles.card_1}/>
+        />
         <Card
         title = 'SUVS'
         text = 'Take an SUV for its spacious interior, power, and versatility. Perfect for your next family vacation and off-road adventures.'
